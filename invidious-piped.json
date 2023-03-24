@@ -1,0 +1,18 @@
+{
+  "instances": [
+    {
+      "app": "Piped",
+      "region": "Europe",
+      "country": "United Kingdom",
+      "flag": "🇬🇧",
+      "url": "https://pipedapi.kavin.rocks"
+    },
+    {
+      "app": "Invidious",
+      "region": "Europe",
+      "country": "Netherlands",
+      "flag": "🇳🇱",
+      "url": "https://invidious-eu01.yattee.stream"
+    }
+  ]
+}
