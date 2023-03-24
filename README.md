@@ -2,7 +2,7 @@
 
 [Yattee](https://github.com/yattee/yattee) has built in support for manifests of locations (instances).
 
-This repository is for community maintained instance manifests. Feel free to send Pull Request with amendment to current list or even create a new one - as long as it is valid, it will be added here. Please notice as this is public repository, everyone will be able to access instances listed there.
+This repository is for community maintained instance manifests. Feel free to send Pull Request with amendment to current list or even create a new one - as long as it has valid syntax and instances on the list are supported by Yattee, it will be accepted. Please notice as this is public repository, everyone will be able to access instances listed there.
 
 # How to use this with Yattee?
 
