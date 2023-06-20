@@ -13,6 +13,13 @@
       "country": "Netherlands",
       "flag": "🇳🇱",
       "url": "https://invidious-eu01.yattee.stream"
+    },
+    {
+      "app": "Invidious",
+      "region": "Europe",
+      "country": "Germany",
+      "flag": "DE",
+      "url": "https://yt.whateveritworks.org"
     }
   ]
 }
